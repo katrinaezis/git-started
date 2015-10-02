@@ -4,4 +4,4 @@ Hello!
   Best, 
      Katrina Ezis
 
-http://students.washington.edu/kezis/info343/files-challenge
+http://students.washington.edu/kezis/info343/git-started/
